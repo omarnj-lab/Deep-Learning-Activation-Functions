@@ -16,6 +16,6 @@ There are different types of activation fuction and each one has its own functio
 
 ![alt text](https://i0.wp.com/sefiks.com/wp-content/uploads/2020/02/sample-activation-functions-square.png?fit=1372%2C1080&ssl=1)
 
-The code will show the ativation function and its derviative since we both use in deep learning applications 
+The code will show the activation functions and their derviatives since we both use in deep learning applications 
 
 Check Observation File for more observation on each of the activation fuctions.
