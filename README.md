@@ -18,4 +18,3 @@ There are different types of activation fuction and each one has its own functio
 
 The code will show the activation functions and their derviatives since we both use in deep learning applications 
 
-Check Observation File for more observation on each of the activation fuctions.
